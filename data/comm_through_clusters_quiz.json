@@ -1,0 +1,271 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "When a group discussion starts to stall, I usually\u2026",
+      "options": [
+        {
+          "answer": "Throw out new creative ideas",
+          "cluster": "Vision Weaver"
+        },
+        {
+          "answer": "Try to bring everyone back into harmony",
+          "cluster": "Bridge Builder"
+        },
+        {
+          "answer": "Say what no one else is saying",
+          "cluster": "Truth Speaker"
+        },
+        {
+          "answer": "Push the group to make a decision and move forward",
+          "cluster": "Momentum Mover"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "In a conflict with friends or colleagues, I tend to\u2026",
+      "options": [
+        {
+          "answer": "Offer a new perspective to inspire change",
+          "cluster": "Vision Weaver"
+        },
+        {
+          "answer": "Keep the peace and calm people down",
+          "cluster": "Bridge Builder"
+        },
+        {
+          "answer": "Speak the raw truth, even if it stings",
+          "cluster": "Truth Speaker"
+        },
+        {
+          "answer": "Push for quick resolution so we can move on",
+          "cluster": "Momentum Mover"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "People often compliment me for\u2026",
+      "options": [
+        {
+          "answer": "Creativity and vision",
+          "cluster": "Vision Weaver"
+        },
+        {
+          "answer": "My ability to connect people",
+          "cluster": "Bridge Builder"
+        },
+        {
+          "answer": "Being honest and direct",
+          "cluster": "Truth Speaker"
+        },
+        {
+          "answer": "My drive and energy",
+          "cluster": "Momentum Mover"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "My biggest communication challenge is\u2026",
+      "options": [
+        {
+          "answer": "Others not seeing the big picture",
+          "cluster": "Vision Weaver"
+        },
+        {
+          "answer": "Losing myself while keeping others happy",
+          "cluster": "Bridge Builder"
+        },
+        {
+          "answer": "Being perceived as too blunt",
+          "cluster": "Truth Speaker"
+        },
+        {
+          "answer": "Talking over or rushing others",
+          "cluster": "Momentum Mover"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "When silence hangs in a room, I usually\u2026",
+      "options": [
+        {
+          "answer": "Break it with a new idea",
+          "cluster": "Vision Weaver"
+        },
+        {
+          "answer": "Check if everyone feels comfortable",
+          "cluster": "Bridge Builder"
+        },
+        {
+          "answer": "Name the unspoken truth",
+          "cluster": "Truth Speaker"
+        },
+        {
+          "answer": "Push to restart action",
+          "cluster": "Momentum Mover"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Under pressure, my instinct is to\u2026",
+      "options": [
+        {
+          "answer": "Imagine alternatives and possibilities",
+          "cluster": "Vision Weaver"
+        },
+        {
+          "answer": "Create harmony and balance",
+          "cluster": "Bridge Builder"
+        },
+        {
+          "answer": "Cut through with truth",
+          "cluster": "Truth Speaker"
+        },
+        {
+          "answer": "Accelerate toward solutions",
+          "cluster": "Momentum Mover"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "In group projects, I usually play the role of\u2026",
+      "options": [
+        {
+          "answer": "Idea generator",
+          "cluster": "Vision Weaver"
+        },
+        {
+          "answer": "Mediator",
+          "cluster": "Bridge Builder"
+        },
+        {
+          "answer": "Challenger / truth teller",
+          "cluster": "Truth Speaker"
+        },
+        {
+          "answer": "Driver / task master",
+          "cluster": "Momentum Mover"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "My communication style is best described as\u2026",
+      "options": [
+        {
+          "answer": "Inspiring and imaginative",
+          "cluster": "Vision Weaver"
+        },
+        {
+          "answer": "Warm and relational",
+          "cluster": "Bridge Builder"
+        },
+        {
+          "answer": "Bold and unfiltered",
+          "cluster": "Truth Speaker"
+        },
+        {
+          "answer": "Fast-paced and direct",
+          "cluster": "Momentum Mover"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "When someone disagrees with me, I\u2026",
+      "options": [
+        {
+          "answer": "Offer new angles or reframe the vision",
+          "cluster": "Vision Weaver"
+        },
+        {
+          "answer": "Try to smooth things over",
+          "cluster": "Bridge Builder"
+        },
+        {
+          "answer": "Double down and speak even more clearly",
+          "cluster": "Truth Speaker"
+        },
+        {
+          "answer": "Debate hard and move toward closure",
+          "cluster": "Momentum Mover"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "The communication gift I most bring to others is\u2026",
+      "options": [
+        {
+          "answer": "Opening new possibilities",
+          "cluster": "Vision Weaver"
+        },
+        {
+          "answer": "Building bridges of understanding",
+          "cluster": "Bridge Builder"
+        },
+        {
+          "answer": "Speaking truth that frees",
+          "cluster": "Truth Speaker"
+        },
+        {
+          "answer": "Creating momentum and action",
+          "cluster": "Momentum Mover"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "If people described my voice in one word, it would be\u2026",
+      "options": [
+        {
+          "answer": "Visionary",
+          "cluster": "Vision Weaver"
+        },
+        {
+          "answer": "Harmonizing",
+          "cluster": "Bridge Builder"
+        },
+        {
+          "answer": "Honest",
+          "cluster": "Truth Speaker"
+        },
+        {
+          "answer": "Energizing",
+          "cluster": "Momentum Mover"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "When I reflect on my own silence, it usually means\u2026",
+      "options": [
+        {
+          "answer": "I\u2019m waiting for inspiration",
+          "cluster": "Vision Weaver"
+        },
+        {
+          "answer": "I don\u2019t want to disrupt harmony",
+          "cluster": "Bridge Builder"
+        },
+        {
+          "answer": "I\u2019m holding back truth I fear won\u2019t be received",
+          "cluster": "Truth Speaker"
+        },
+        {
+          "answer": "I\u2019m impatient and ready to move on",
+          "cluster": "Momentum Mover"
+        }
+      ]
+    }
+  ]
+}
+add comm_through_clusters_quiz.json
+
+}
