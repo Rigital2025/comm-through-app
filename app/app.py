@@ -56,4 +56,3 @@ else:
         st.session_state.current_q = 0
         st.session_state.answers = []
         st.experimental_rerun()
-
