@@ -32,7 +32,7 @@ if st.session_state.current_q < len(questions):
             if opt["answer"] == choice:
                 st.session_state.answers.append(opt["cluster"])
         st.session_state.current_q += 1
-        st.experimental_rerun()
+        st.rerun()
 
 # Show results at the end
 else:
@@ -55,4 +55,5 @@ else:
     if st.button("Restart Quiz"):
         st.session_state.current_q = 0
         st.session_state.answers = []
-        st.experimental_rerun()
+        st.rerun()
+
